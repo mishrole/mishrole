@@ -4,15 +4,32 @@ Soy Mitchell, Desarrollador Front-End apasionado por <img src="https://devicon.d
 Egresado de [Laboratoria](https://www.laboratoria.la/), y estudiante de Computación e Informática en [Cibertec](https://www.cibertec.edu.pe/).<br />
 Enfocado en stack **MERN** con miras hacia un perfil **Full-Stack**, e interesado en iniciativas de protección ambiental.
 
-Actualmente aprendiendo: <img src="https://img.icons8.com/color/48/000000/react-native.png" width="20"/> React <img src="https://devicon.dev/devicon.git/icons/mongodb/mongodb-original.svg" width="20"/> MongoDB
-<br />Y reforzando: <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" width="20"/> Java <img src="https://devicon.dev/devicon.git/icons/csharp/csharp-original.svg" width="20"/> C Sharp  <img src="https://devicon.dev/devicon.git/icons/nodejs/nodejs-original.svg" width="20"/> NodeJS  <img src="https://devicon.dev/devicon.git/icons/express/express-original.svg" width="20"/> Express
+Actualmente aprendiendo:
+<img src="https://img.icons8.com/color/48/000000/react-native.png" width="20"/> React
+<img src="https://devicon.dev/devicon.git/icons/mongodb/mongodb-original.svg" width="20"/> MongoDB<br />
+Y reforzando: <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" width="20"/> Java 
+<img src="https://devicon.dev/devicon.git/icons/csharp/csharp-original.svg" width="20"/> C Sharp  <img src="https://devicon.dev/devicon.git/icons/nodejs/nodejs-original.svg" width="20"/> NodeJS 
 
+<!--![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) `#f03c15` -->
 
+<!--<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mishrole&layout=compact&langs_count=12%3C&hide=HTML,CSS,PowerShell,ASP&theme=graywhite" />-->
+<br />
 
+### Dónde encontrarme
 
-
-
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mishrole&layout=compact&langs_count=12%3C&hide=HTML,CSS,PowerShell,ASP&theme=graywhite" />
+<p>
+  <a href="https://github.com/mishrole" target="_blank">
+    <img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white"/>
+  </a>
+  <a href="https://twitter.com/mishrole" target="_blank">
+    <img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/mitchellrodriguez/" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  
+  
+</p>
 
 <!--[![Top Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=mishrole&layout=compact&langs_count=12%3C&hide=HTML,CSS,PowerShell,ASP&theme=graywhite)](https://github.com/anuraghazra/github-readme-stats)-->
 
