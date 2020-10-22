@@ -5,7 +5,7 @@ Egresado de [Laboratoria](https://www.laboratoria.la/) en Lima, y estudiante de 
 Enfocado en stack **MERN** con miras hacia un perfil **Full-Stack**, e interesado en iniciativas de protección ambiental.
 <br/>
 
-### Estado Actual
+### Actualmente
 
 Aprendiendo <img src="https://img.icons8.com/color/48/000000/react-native.png" width="20"/> React  y <img src="https://devicon.dev/devicon.git/icons/mongodb/mongodb-original.svg" width="20"/> MongoDB<br />
 Reforzando
