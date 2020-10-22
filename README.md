@@ -4,6 +4,11 @@ Soy Mitchell, Desarrollador Front-End apasionado por <img src="https://devicon.d
 Egresado de [Laboratoria](https://www.laboratoria.la/) en Lima, y estudiante de Computación e Informática en [Cibertec](https://www.cibertec.edu.pe/).<br />
 Enfocado en stack **MERN** con miras hacia un perfil **Full-Stack**, e interesado en iniciativas de protección ambiental.<br/>
 
+Puedes acceder a mi CV <a href="https://drive.google.com/file/d/1nHtiN6BhlsaGgsXMvrmkf6uKF9OC6ATB/view?usp=sharing" target="_blank">aquí</a>.
+
+<!--<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mishrole&locale=es&hide_border=true&custom_title=Top Lenguajes Usados&layout=compact&langs_count=12%3C&hide=HTML,CSS,PowerShell,ASP&theme=graywhite" />-->
+
+
 ### Actualmente
 
 Aprendiendo <img src="https://img.icons8.com/color/48/000000/react-native.png" width="20"/> React  y <img src="https://devicon.dev/devicon.git/icons/mongodb/mongodb-original.svg" width="20"/> MongoDB<br />
@@ -11,9 +16,6 @@ Reforzando
 <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" width="20"/> Java 
 <img src="https://devicon.dev/devicon.git/icons/csharp/csharp-original.svg" width="20"/> C Sharp  y
 <img src="https://devicon.dev/devicon.git/icons/nodejs/nodejs-original.svg" width="20"/> NodeJS <br />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mishrole&locale=es&hide_border=true&custom_title=Más Usados&layout=compact&langs_count=12%3C&hide=HTML,CSS,PowerShell,ASP&theme=graywhite" />
-
 
 ### Dónde encontrarme
 
