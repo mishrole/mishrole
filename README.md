@@ -5,14 +5,12 @@ Egresado de [Laboratoria](https://www.laboratoria.la/) en Lima, y estudiante de 
 Enfocado en stack **MERN** con miras hacia un perfil **Full-Stack**, e interesado en iniciativas de protección ambiental.
 <br/>
 
-### Aprendiendo
-<img src="https://img.icons8.com/color/48/000000/react-native.png" width="20"/> React
-<img src="https://devicon.dev/devicon.git/icons/mongodb/mongodb-original.svg" width="20"/> MongoDB<br />
-<br/>
+### Estado Actual
 
-### Reforzando
+Aprendiendo <img src="https://img.icons8.com/color/48/000000/react-native.png" width="20"/> React  y <img src="https://devicon.dev/devicon.git/icons/mongodb/mongodb-original.svg" width="20"/> MongoDB<br />
+Reforzando
 <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" width="20"/> Java 
-<img src="https://devicon.dev/devicon.git/icons/csharp/csharp-original.svg" width="20"/> C Sharp
+<img src="https://devicon.dev/devicon.git/icons/csharp/csharp-original.svg" width="20"/> C Sharp  y
 <img src="https://devicon.dev/devicon.git/icons/nodejs/nodejs-original.svg" width="20"/> NodeJS 
 
 <!--![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) `#f03c15` -->
