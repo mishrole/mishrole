@@ -15,7 +15,7 @@ Aprendiendo <img src="https://raw.githubusercontent.com/devicons/devicon/master/
 Reforzando
 <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" width="20"/> Java 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="20"/> C Sharp  y
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="20"/> NodeJS <br />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="20"/> NodeJS <br />
 
 ### Dónde encontrarme
 
