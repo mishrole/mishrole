@@ -2,9 +2,9 @@
 
 Soy Mitchell, Desarrollador Front-End apasionado por <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" width="20"/> Javascript.<br />
 Egresado de [Laboratoria](https://www.laboratoria.la/) en Lima, y estudiante de Computación e Informática en [Cibertec](https://www.cibertec.edu.pe/).<br />
-Enfocado en stack **MERN** con miras hacia un perfil **Full-Stack**, e interesado en iniciativas de protección ambiental.<br/>
+Enfocado en stack **MERN** con miras hacia un perfil **Full-Stack**.<br />Interesado en iniciativas de protección ambiental, energía solar, y desarrollo sostenible.<br/>
 
-Puedes acceder a mi CV [aquí](https://drive.google.com/file/d/1EkMikLr3vImR4KYTZkL6LrRO-ydtva0s/view?usp=sharing).
+Puedes acceder a mi CV [aquí](https://drive.google.com/file/d/1_iaSSJhftU9FEFfekV9nkV-qaFdVGV5I/view?usp=sharing).
 
 <!--<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mishrole&locale=es&hide_border=true&custom_title=Top Lenguajes Usados&layout=compact&langs_count=12%3C&hide=HTML,CSS,PowerShell,ASP&theme=graywhite" />-->
 
