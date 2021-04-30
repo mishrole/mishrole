@@ -1,8 +1,8 @@
 ## ¡Bienvenidx!
 
-Soy Mitchell, desarrollador apasionado por <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" width="15"/> Javascript y el aprendizaje continuo. Soy egresado de [Laboratoria](https://www.laboratoria.la/) en Lima, y estudiante de último año de Computación e Informática en [Cibertec](https://www.cibertec.edu.pe/). Me apasionan las iniciativas de protección ambiental, energía solar, y desarrollo sostenible. Planeo abrir un espacio <i>de Junior a Junior<i/> para ayudar a personas trans* a iniciar en tecnología.
+Soy Mitchell, desarrollador apasionado por <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" width="15"/> Javascript y el aprendizaje continuo. Soy egresado de [Laboratoria](https://www.laboratoria.la/) en Lima, y estudiante de último año de Computación e Informática en [Cibertec](https://www.cibertec.edu.pe/). Me apasionan las iniciativas de protección ambiental, energía solar, y desarrollo sostenible.
 
-Puedes acceder a mi CV [aquí](https://drive.google.com/file/d/18inUs7U7eX-wvaU4oCLOcknA5YJ_5YU-/view?usp=sharing).
+✨ Planeo abrir un espacio <i>de Junior a Junior</i> en Septiembre, para ayudar a <b>personas trans* y diversidades</b> a iniciar en tecnología.
 
 ### Actualmente
 
@@ -15,6 +15,8 @@ Reforzando <br />
 
 Creando con <br />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="15" />   Spring <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" width="15"/>   Java <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="15" />   MySQL <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" width="15"/>   Bootstrap   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-plain.svg" width="15" /> JQuery
+
+Puedes acceder a mi CV [aquí](https://drive.google.com/file/d/18inUs7U7eX-wvaU4oCLOcknA5YJ_5YU-/view?usp=sharing).
 
 ### Dónde encontrarme
 <p>
