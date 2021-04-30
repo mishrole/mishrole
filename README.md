@@ -1,8 +1,7 @@
 ## ¡Bienvenidx!
 
-Soy Mitchell, desarrollador apasionado por <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" width="15"/> Javascript y el aprendizaje continuo.<br />
-Egresado de [Laboratoria](https://www.laboratoria.la/) en Lima, y estudiante de último año de Computación e Informática en [Cibertec](https://www.cibertec.edu.pe/).<br />
-Enfocado en pulir mi Front-End y aprender más de Back-End, con miras hacia un perfil **Full-Stack**.<br />Interesado en iniciativas de protección ambiental, energía solar, y desarrollo sostenible.<br/>
+Soy Mitchell, desarrollador apasionado por <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" width="15"/> Javascript y el aprendizaje continuo. Soy egresado de [Laboratoria](https://www.laboratoria.la/) en Lima, y estudiante de último año de Computación e Informática en [Cibertec](https://www.cibertec.edu.pe/) .
+<br />Me apasionan las iniciativas de protección ambiental, energía solar, y desarrollo sostenible.<br/>
 
 Puedes acceder a mi CV [aquí](https://drive.google.com/file/d/18inUs7U7eX-wvaU4oCLOcknA5YJ_5YU-/view?usp=sharing).
 
@@ -20,10 +19,6 @@ Creando con <br />
 
 ### Dónde encontrarme
 <p>
-  <!--
-  <a href="https://github.com/mishrole" target="_blank">
-    <img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white"/>
-  </a>-->
   <a href="https://twitter.com/mishrole" target="_blank">
     <img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white"/>
   </a>
@@ -32,8 +27,3 @@ Creando con <br />
   </a>
   
 </p>
-
-<!--<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="15"/> C Sharp  y -->
-<!--
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mishrole&locale=es&layout=compact&langs_count=20%3C&hide=PowerShell,ASP,HTML,SCSS,ASP.NET&theme=graywhite&custom_title=Lenguajes más usados&hide_border=true" />
--->
