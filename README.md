@@ -1,6 +1,6 @@
 ## ¡Bienvenidx!
 
-Soy Mitchell, desarrollador apasionado por <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" width="15"/> Javascript y el aprendizaje continuo. Soy egresado de [Laboratoria](https://www.laboratoria.la/) en Lima, y estudiante de último año de Computación e Informática en [Cibertec](https://www.cibertec.edu.pe/). Me apasionan las iniciativas de protección ambiental, energía solar, y desarrollo sostenible.
+Soy Mitchell, desarrollador apasionado por <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" width="15"/> Javascript y el aprendizaje continuo. Egresado de [Laboratoria](https://www.laboratoria.la/) en Lima, y estudiante de último año de Computación e Informática en [Cibertec](https://www.cibertec.edu.pe/). Me apasionan las iniciativas de protección ambiental, energía solar, y desarrollo sostenible.
 
 ✨ Planeo abrir un espacio <i>de Junior a Junior</i> en Septiembre, para ayudar a <b>personas trans* y diversidades</b> a iniciar en tecnología.
 
