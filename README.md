@@ -14,7 +14,7 @@ Reforzando <br />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="15"/> NodeJS <br />
 
 Creando con <br />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="15" />   Spring <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" width="15"/>   Java <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="15" />   MySQL <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" width="15"/>   Bootstrap   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-plain.svg" width="15" /> JQuery
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="15" />   Spring <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" width="15"/>   Java  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" width="15"/>  Javascript <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="15" />   MySQL <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" width="15"/>   Bootstrap   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-plain.svg" width="15" /> JQuery
 
 <br />
 
