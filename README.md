@@ -18,7 +18,7 @@ Creando con <br />
 
 <br />
 
-Puedes acceder a mi CV [aquí](https://drive.google.com/file/d/18inUs7U7eX-wvaU4oCLOcknA5YJ_5YU-/view?usp=sharing).
+Puedes acceder a mi CV [aquí](https://drive.google.com/file/d/1Lr_cRScOZDDfYgokOgvd3veDuFdlNiZW/view?usp=sharing).
 <br />
 
 ### Dónde encontrarme
