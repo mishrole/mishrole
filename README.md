@@ -2,7 +2,7 @@
   
   ## Hi! 👋 I'm Mitchell
 
-  A Trans*feminist Software Developer with a passion for Javascript and continuous learning
+  A Trans*feminist Full-Stack Software Developer with a passion for Javascript and continuous learning
   <br />
   <br />
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mishrole&" alt="mishrole" />
