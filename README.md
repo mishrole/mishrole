@@ -8,6 +8,11 @@
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mishrole&" alt="mishrole" />
   <br />
   <br />
+  <div align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=mishrole&row=2&column=4&theme=darkhub&no-frame=true&no-bg=true&title=Repositories,Commits,Followers,PullRequest" alt="mishrole trophy" />
+  </a>
+  </div>
 </div>
 
 
