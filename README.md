@@ -97,7 +97,7 @@
   <a href="https://api.whatsapp.com/send/?phone=51965713605&text=&app_absent=0" target="_blank">
     <img alt="WhatsApp" src="https://img.shields.io/badge/%20-WhatsApp-success?&style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAABmJLR0QA/wD/AP+gvaeTAAABmElEQVRIidWUMWtUQRSFv9ngCmkiCqJZRSSQXkNaEaxsQkjEQizURshPyD9IGa1TpBJiIyrYCCJYKCTBRhLQRldsksItjBpCvhQ7C+Nzdt97bJUDD96bc+85986deXDcEQaRahO4BcwCV4HTkfoJvANeAU9DCAe1ndV59avl+KLO1RFuqMsVhFMcqkvqSBWDxzXFUzwqE789hHgP8/3ET6rfCsFtdUF9U8OgbfdwVKr+euSmanZxJ2ewWgj6o4aE36hhsNbLayQeUwXPJnAqip8Bzg4c4L+4kjNoFYIC8CC+3wAu1DAY/29F3c202lEn1KA+qbFFezmDT32CP6qjatPuBTxU/6p34/evTM7nnMHKgIreqmMxblq9meSdV/cK8Ws5g5mStrfUa5m8iUzsvR6fHsMGsAVMlgxwE3gOvAcuAovA5YTfAS6FEH7nutgs6aIK7mfLUlt2BzgMVk0uZ9Hg4ZDiK+qJvhurviwkdNTvFYTb5v49EemQt+OAXsfnQ6RmgDlgGjgX134A68AL4FkIYb9v5cceR5GgF0L36UHjAAAAAElFTkSuQmCC"/>
   </a>
-  <a href="https://drive.google.com/file/d/1sjpbuIUhlBB8U36x_4bUyIYDmtShfCq4/view?usp=sharing" target="_blank">
+  <a href="https://drive.google.com/file/d/1mkwn5jx_kznD-BkWE6IXCeHFq0mitDyK/view?usp=sharing" target="_blank">
     <img alt="Download CV" src="https://img.shields.io/badge/-Download%20CV-3A36DB?style=for-the-badge&logoColor=white"/>
   </a>
 </p>
