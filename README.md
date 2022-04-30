@@ -13,7 +13,7 @@
   </div>
 </div>
 
-### About me
+### About me ✨
 
 🔨 Working with Angular, Typescript, Kotlin, and C# NET Core day-to-day
 <br />
@@ -24,7 +24,8 @@
 🌱 Interested in renewable energies, free internet access, and trans-inclusive policies
 <br />
 
-### Education
+### Education 📚
+
 🎓 Diploma in Innovation and Technological Integration, [Cibertec](https://www.cibertec.edu.pe/) (Current)
 <br />
 👨‍🎓 Full-Stack Developer, [Coding Dojo](https://www.codingdojo.la/)'s Bootcamp (2022)
@@ -38,7 +39,8 @@
   <summary>Skills</summary>
 </details>-->
 
-### Skills
+### Skills 💪
+
 🎨 Frontend:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="15" alt="Angular" /> Angular
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="15" alt="TypeScript"/> TypeScript
@@ -85,7 +87,7 @@
 <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="15" alt="Firebase"/> Firebase
 <br />
 
-### Contact
+### Contact 👾
 
 <p>
   <a href="https://twitter.com/mishrole" target="_blank">
