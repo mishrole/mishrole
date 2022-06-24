@@ -2,7 +2,7 @@
   
   ## Hey there! 👋 I'm Mitchell
 
-  A Trans*feminist Full-Stack Developer with a passion for Javascript and continuous learning
+  A Trans*feminist Full-Stack Developer with over two years of experience and a passion for Javascript and continuous learning
   
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mishrole&" alt="mishrole"/>
   <br /><br />
@@ -15,7 +15,7 @@
 
 ### About me ✨
 
-🔨 Working with Angular, Typescript, Kotlin, and C# NET Core day-to-day
+🔨 Working with Angular, Typescript, Nest.js, Kotlin, and C# NET Core day-to-day
 <br />
 💡 Self-taught learning <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="15" alt="Azure"/> Azure to achieve AZ-900 certification
 <br />
@@ -34,10 +34,6 @@
 <br />
 👨‍🎓 Front-End Developer, [Laboratoria](https://www.laboratoria.la/)'s Bootcamp (2017)
 <br />
-
-<!--<details>
-  <summary>Skills</summary>
-</details>-->
 
 ### Skills 💪
 
@@ -99,8 +95,13 @@
   <a href="https://api.whatsapp.com/send/?phone=51965713605&text=&app_absent=0" target="_blank">
     <img alt="WhatsApp" src="https://img.shields.io/badge/%20-WhatsApp-success?&style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAABmJLR0QA/wD/AP+gvaeTAAABmElEQVRIidWUMWtUQRSFv9ngCmkiCqJZRSSQXkNaEaxsQkjEQizURshPyD9IGa1TpBJiIyrYCCJYKCTBRhLQRldsksItjBpCvhQ7C+Nzdt97bJUDD96bc+85986deXDcEQaRahO4BcwCV4HTkfoJvANeAU9DCAe1ndV59avl+KLO1RFuqMsVhFMcqkvqSBWDxzXFUzwqE789hHgP8/3ET6rfCsFtdUF9U8OgbfdwVKr+euSmanZxJ2ewWgj6o4aE36hhsNbLayQeUwXPJnAqip8Bzg4c4L+4kjNoFYIC8CC+3wAu1DAY/29F3c202lEn1KA+qbFFezmDT32CP6qjatPuBTxU/6p34/evTM7nnMHKgIreqmMxblq9meSdV/cK8Ws5g5mStrfUa5m8iUzsvR6fHsMGsAVMlgxwE3gOvAcuAovA5YTfAS6FEH7nutgs6aIK7mfLUlt2BzgMVk0uZ9Hg4ZDiK+qJvhurviwkdNTvFYTb5v49EemQt+OAXsfnQ6RmgDlgGjgX134A68AL4FkIYb9v5cceR5GgF0L36UHjAAAAAElFTkSuQmCC"/>
   </a>
-  <a href="https://drive.google.com/file/d/1mkwn5jx_kznD-BkWE6IXCeHFq0mitDyK/view?usp=sharing" target="_blank">
-    <img alt="Download CV" src="https://img.shields.io/badge/-Download%20CV-3A36DB?style=for-the-badge&logoColor=white"/>
+  
+  <a href="https://drive.google.com/file/d/1LJBpgjoO7pHBaG4wfYQZ3SRLgaMb5lnw/view?usp=sharing" target="_blank">
+    <img alt="Download CV" src="https://img.shields.io/badge/-Resume-3A36DB?style=for-the-badge&logoColor=white"/>
+  </a>
+  
+  <a href="https://mishrole.vercel.app/" target="_blank">
+    <img alt="Portfolio" src="https://img.shields.io/badge/-Portfolio-0C2245?style=for-the-badge&logoColor=white"/>
   </a>
 </p>
 
