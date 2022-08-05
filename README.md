@@ -19,7 +19,7 @@
 <br />
 💡 Self-taught learning <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="15" alt="Azure"/> Azure to achieve AZ-900 certification
 <br />
-💪 Reinforcing MERN Stack and playing with Socket.io on side projects
+💪 Reinforcing MERN Stack and playing with Docker and Kubernetes
 <br />
 🌱 Interested in renewable energies, free internet access, and trans-inclusive policies
 <br />
